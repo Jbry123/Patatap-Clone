@@ -1,4 +1,4 @@
-/*!
+ /*!
  * Paper.js v0.9.25 - The Swiss Army Knife of Vector Graphics Scripting.
  * http://paperjs.org/
  *
